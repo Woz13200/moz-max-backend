@@ -1,4 +1,4 @@
-const { Low } = require('lowdb');
+import { Low } from "lowdb";
 const { JSONFile } = require('lowdb/node');
 const { nanoid } = require('nanoid');
 const lodash = require('lodash');
